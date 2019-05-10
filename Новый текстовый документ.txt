@@ -1,0 +1,4 @@
+routes/web.php - файл роутинга
+app/models - классы(модели) используемые в проекте
+esources/views - темплейты(views)
+php artisan serve - запуск сервера
